@@ -2,6 +2,8 @@
 
 A real-time emotion detection application using computer vision techniques to identify facial expressions.
 
+It only works with neutral and happy as of now because it's way too late and I despratley want to go to sleeppp.
+
 ## Features
 
 - Real-time face detection
